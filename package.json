@@ -1,0 +1,10 @@
+{
+ "name": "filter-data-base-by-category-addon",
+ "version": "0.0.1",
+ "description": "add an data base filter by category to the primo Data Base search",
+ "author": "sigal leibovitz (fridman)",
+ "repository": {
+   "type": "git",
+   "url": "<your repository url>.git"
+ }
+}

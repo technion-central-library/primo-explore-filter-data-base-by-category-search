@@ -1,0 +1,48 @@
+.helloWorld{
+    color:#E65400;
+    font-weight:bold;
+    margin-top:-3.5em;
+    margin-left: 1em;
+}
+
+.letter {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-right: 15px;
+    margin-bottom: 5px;        
+    text-align: center;
+    line-height: 30px;
+    font-size: 16px;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin: 3px 15px 15px 0px;
+    background-color: #dcdee0ec;
+    cursor: pointer;
+  }
+
+  .letter:hover{
+    box-shadow:inset 0 -1px 0 0 #0f7d00;    
+    color:#0f7d00;
+  }
+
+ .hidden {
+    display: none;
+  }
+
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+      }
+  
+  .flex-container > div {  
+    width: 100px;
+    margin: 20px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    padding-right:15px;
+  }
+
+ 
+
