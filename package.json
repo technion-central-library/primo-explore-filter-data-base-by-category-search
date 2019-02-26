@@ -1,10 +1,10 @@
 {
- "name": "filter-data-base-by-category-addon",
+ "name": "primo-explore-filter-data-base-by-category",
  "version": "0.0.1",
  "description": "add an data base filter by category to the primo Data Base search",
- "author": "sigal leibovitz (fridman)",
+ "author": "sigalleibovitz",
  "repository": {
    "type": "git",
-   "url": "<your repository url>.git"
+   "url": "https://github.com/technion-central-library/primo-explore-filter-data-base-by-category.git"
  }
 }
