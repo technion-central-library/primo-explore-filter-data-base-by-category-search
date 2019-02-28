@@ -18,12 +18,21 @@ app.component('prmTreeNavAfter', {
         var vm = this;
 
         try {
+            
+            window.onresize = adaptFacetSize;
+            function adaptFacetSize(){
+            var facetLeft = $("md-card[class^='default-card']").offset().left;
+            var menuRight = $("div[id='alphabet']").width() + $("div[id='alphabet']").offset().left;       
+            $("div[id='alphabet']").css("width",facetLeft-40);
+          }
+            
             vm.alphabet = {
                 letter: ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "all"]
             };
 
             this.$onInit = function () {
                 var res = $("prm-tree-nav > md-list").css("display", "none");
+                adaptFacetSize();
             };
 
             $scope.showValue = function (letter) {
