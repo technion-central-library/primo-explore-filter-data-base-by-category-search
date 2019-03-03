@@ -1,5 +1,7 @@
 # Adding A-Z filter for Databases search on Primo VE 
 
+you can see it in the link: https://technion.primo.exlibrisgroup.com/discovery/dbsearch?sortby=rank&vid=972TEC_INST:972TEC_V1&lang=en
+
 ![image](https://user-images.githubusercontent.com/47715986/53693495-ed35bc80-3da9-11e9-8875-0ae44dbaab4d.png)
 
 On November 2018 ExLibris release the option of assigning categories to the database records. This feature allows the institute to add a list of subjects in order to improve databases accessibility. 
