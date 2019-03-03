@@ -13,6 +13,18 @@ Choose a local bibliographic field (for example, select any 6XX or 9XX field for
 
 You can choose to use a subject field as 650 (LCSH, MeSH) or add any subject on field 693 for a local subject using the Metadata Editor (Resources > Cataloging > Open Metadata Editor)
 
+![image](https://user-images.githubusercontent.com/47715986/53693147-e0fb3080-3da4-11e9-823f-9bee753edd08.png)
+
+For more info:
+https://knowledge.exlibrisgroup.com/Primo/Release_Notes/002Primo_VE/0982018/0052018_Release_Notes_for_Primo_VE
+
+
+2.	Contact ExLibris by ticket and request to run the job: Create BD Categories File (Currently only ExLibris can run this job). This job is schedule to run daily
+ 
+3.	(---Optional ---) Some of the categories labels need to be customized to be 
+presented correctly: 
+
+
 
 
 # The Primo New UI Customization Workflow Development Environment
