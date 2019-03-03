@@ -24,6 +24,16 @@ https://knowledge.exlibrisgroup.com/Primo/Release_Notes/002Primo_VE/0982018/0052
 3.	(---Optional ---) Some of the categories labels need to be customized to be 
 presented correctly: 
 
+![image](https://user-images.githubusercontent.com/47715986/53693157-1b64cd80-3da5-11e9-8549-6b24f7cc528f.png)  ![image](https://user-images.githubusercontent.com/47715986/53693158-27e92600-3da5-11e9-9d96-3104a12a245b.png)
+
+The fix: 
+On Discovery layer > Labels > Database Search Labels table (in edit mode).
+Add Row with code and new label (code is taken from translate by inspect).
+
+Example: 
+Primo Front-end:
+ 
+Web Browser Inspect: 
 
 
 
