@@ -7,6 +7,14 @@ To implement this plug-in in Primo VE please follow these stages:
 1.	Assigning Categories to the Database Records (From Ex Libris documentation):
 Choose a local bibliographic field (for example, select any 6XX or 9XX field for MARC21) in which to store the database categories in your local bibliographic records, and then enter that field in the db_categories_field parameter on the Alma Customer Parameters page 
 
+![image](https://user-images.githubusercontent.com/47715986/53693140-b1e4bf00-3da4-11e9-9034-676d60daa737.png)
+
+#Configuration Menu > Resources > General > Other Settings
+
+You can choose to use a subject field as 650 (LCSH, MeSH) or add any subject on field 693 for a local subject using the Metadata Editor (Resources > Cataloging > Open Metadata Editor)
+
+
+
 # The Primo New UI Customization Workflow Development Environment
 
 
