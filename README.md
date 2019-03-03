@@ -1,5 +1,3 @@
-# primo-filter-data-base-by-category
-
 # A-Z listing for Databases search by category on Primo VE 
 On November 2018 ExLibris release the option of assigning categories to the database records. This feature allows the institute to add a list of subjects in order to improve databases accessibility. 
 We have created an A-Z listing plug-in for this list to ease navigation due to a very long list of subjects in our various databases.
