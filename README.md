@@ -45,8 +45,6 @@ Alma (Add row) and Save table:
 
 The result:
 
-![image](https://user-images.githubusercontent.com/47715986/53693183-9332f800-3da5-11e9-90e0-a9bc63daaa47.png)
-
 Provided with love to the Primo community by the Technion Libraries.
 
 
