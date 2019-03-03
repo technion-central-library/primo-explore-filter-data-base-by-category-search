@@ -1,4 +1,7 @@
-# A-Z listing for Databases search by category on Primo VE 
+# Adding A-Z filter for Databases search on Primo VE 
+
+![image](https://user-images.githubusercontent.com/47715986/53693495-ed35bc80-3da9-11e9-8875-0ae44dbaab4d.png)
+
 On November 2018 ExLibris release the option of assigning categories to the database records. This feature allows the institute to add a list of subjects in order to improve databases accessibility. 
 We have created an A-Z listing plug-in for this list to ease navigation due to a very long list of subjects in our various databases.
 **To implement this plug-in in Primo VE please follow these stages:**
@@ -41,9 +44,5 @@ Alma (Add row) and Save table:
 
 4.	Assuming you've installed and are using primo-explore-devenv download primo-explore-filter-data-base-by-category-search and follow the instruction for development in:
 https://github.com/ExLibrisGroup/primo-explore-devenv
-
-The result:
-
-![image](https://user-images.githubusercontent.com/47715986/53693495-ed35bc80-3da9-11e9-8875-0ae44dbaab4d.png)
 
 **Provided with love to the Primo community by the Technion Libraries.**
