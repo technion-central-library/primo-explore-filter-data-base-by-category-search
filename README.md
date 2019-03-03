@@ -39,6 +39,16 @@ Web Browser Inspect:
 
 Alma (Add row) and Save table:
 
+![image](https://user-images.githubusercontent.com/47715986/53693177-81e9eb80-3da5-11e9-94fe-6b3cb900dcc7.png)
+
+4.	Install the A-Z listing plugin. 
+
+The result:
+
+![image](https://user-images.githubusercontent.com/47715986/53693183-9332f800-3da5-11e9-90e0-a9bc63daaa47.png)
+
+Provided with love to the Primo community by the Technion Libraries.
+
 
 
 # The Primo New UI Customization Workflow Development Environment
