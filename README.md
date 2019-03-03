@@ -1,5 +1,11 @@
 # primo-filter-data-base-by-category
 
+# A-Z listing for Databases search by category on Primo VE 
+On November 2018 ExLibris release the option of assigning categories to the database records. This feature allows the institute to add a list of subjects in order to improve databases accessibility. 
+We have created an A-Z listing plug-in for this list to ease navigation due to a very long list of subjects in our various databases.
+To implement this plug-in in Primo VE please follow these stages:
+1.	Assigning Categories to the Database Records (From Ex Libris documentation):
+Choose a local bibliographic field (for example, select any 6XX or 9XX field for MARC21) in which to store the database categories in your local bibliographic records, and then enter that field in the db_categories_field parameter on the Alma Customer Parameters page 
 
 # The Primo New UI Customization Workflow Development Environment
 
