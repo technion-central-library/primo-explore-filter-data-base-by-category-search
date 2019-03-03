@@ -35,6 +35,10 @@ Primo Front-end:
  
 Web Browser Inspect: 
 
+![image](https://user-images.githubusercontent.com/47715986/53693168-5c5ce200-3da5-11e9-9f51-da4440e9f8e2.png)
+
+Alma (Add row) and Save table:
+
 
 
 # The Primo New UI Customization Workflow Development Environment
