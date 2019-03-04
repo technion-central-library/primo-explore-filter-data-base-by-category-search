@@ -2,7 +2,7 @@
 
 you can see it in the link: https://technion.primo.exlibrisgroup.com/discovery/dbsearch?sortby=rank&vid=972TEC_INST:972TEC_V1&lang=en
 
-![image](https://user-images.githubusercontent.com/47715986/53695760-49a7d480-3dc8-11e9-950f-1aca610e181c.png)
+![image](https://user-images.githubusercontent.com/47715986/53733650-4c6afe00-3e8a-11e9-856d-116670c39285.png)
 
 On November 2018 ExLibris release the option of assigning categories to the database records. This feature allows the institute to add a list of subjects in order to improve databases accessibility. 
 We have created an A-Z listing plug-in for this list to ease navigation due to a very long list of subjects in our various databases.
