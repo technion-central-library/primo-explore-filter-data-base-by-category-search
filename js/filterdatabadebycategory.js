@@ -21,9 +21,23 @@ app.component('prmTreeNavAfter', {
             
             window.onresize = adaptFacetSize;
             function adaptFacetSize(){
-            var facetLeft = $("md-card[class^='default-card']").offset().left;
-            var menuRight = $("div[id='alphabet']").width() + $("div[id='alphabet']").offset().left;       
-            $("div[id='alphabet']").css("width",facetLeft-40);
+            //if its hebrew
+            if ($("md-card[class^='default-card']").length == 1) {
+                if($("html[lang^='he']").length > 0)
+                {
+                    // hebrew
+                    const informationCard = $(window).width() - ($("md-card[class^='default-card']").offset().left + $("md-card[class^='default-card']").outerWidth());
+                                     
+                    $("div[id='alphabet']").css("width",informationCard-45);
+                    $("div[id='alphabet']").css("flex-direction",'row-reverse');
+                                    
+                } else {
+                    // english
+                    var informationCard = $("md-card[class^='default-card']").offset().left;
+                                console.log("facetLeft " + informationCard);
+                                $("div[id='alphabet']").css("width",informationCard-40);
+                }         
+            }
           }
             
             vm.alphabet = {
