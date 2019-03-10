@@ -1,7 +1,7 @@
 {
- "name": "primo-explore-filter-data-base-by-category-search",
- "version": "0.0.1",
- "description": "add an data base filter by category to the primo Data Base search",
+ "name": "A-Z Databases category index",
+ "version": "0.0.4",
+ "description": "add a database filter by category to the primo Data Base search",
  "author": "sigalleibovitz",
  "repository": {
    "type": "git",
